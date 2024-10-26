@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739281702258",
+    "project_id": "fir-userauth-c0129",
+    "storage_bucket": "fir-userauth-c0129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739281702258:android:0360702b0a12f73534a1eb",
+        "android_client_info": {
+          "package_name": "com.tapon.userauthfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfrt2WyQ0rJNwk-t6RHrymTH6lZgSd01M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
